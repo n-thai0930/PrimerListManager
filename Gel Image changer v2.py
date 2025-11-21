@@ -6,6 +6,7 @@ import cv2
 from PIL import Image, ImageTk
 
 # ---- ドラッグ＆ドロップ対応 ----
+# as
 try:
     from tkinterdnd2 import TkinterDnD, DND_FILES
     HAS_DND = True
